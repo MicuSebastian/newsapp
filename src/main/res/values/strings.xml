@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DAPM Application</string>
+
+    <!-- Deschidere si inchidere meniu-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
+    <!-- Obiecte pentru main drower -->
+    <string name="ic_title_home">Home</string>
+    <string name="ic_title_world">World</string>
+    <string name="ic_title_science">Science</string>
+    <string name="ic_title_sport">Sport</string>
+    <string name="ic_title_fashion">Fashion</string>
+    <string name="ic_title_business">Business</string>
+
+
+    <!-- Variabile pentru divcontent -->
+    <string-array name="articles">
+        <item>Centrafrique : Bangui, improbable capitale du bitcoin</item>
+        <item>Pacte de stabilité : le salutaire pragmatisme des Européens</item>
+        <item>Starliner, la capsule spatiale de Boeing, passe le test non sans accrocs</item>
+        <item>En Bretagne, les corbeaux de la discorde</item>
+        <item>Liverpool et le Real Madrid, la loi du plus fort</item>
+        <item>Roland-Garros Nadal - Djokovic se jouera-t-il en night session</item>
+        <item>La Caserne présente son nouveau format événementiel</item>
+        <item>Recyclage: un nouveau procédé pour le polyester</item>
+        <item>La France au 6e rang mondial des pays les plus attractifs</item>
+        <item>La diversification à marche forcée du secteur pousse à la consolidation</item>
+    </string-array>
+    <!-- Descriere pentru stiri-->
+
+    <string-array name="description">
+        <item>Après San Salvador, Bangui, capitale du bitcoin !</item>
+        <item>Les règles de discipline budgétaire auxquelles sont soumis.</item>
+        <item>La capsule spatiale de Boeing, a atterri mercredi 25 mai.</item>
+        <item>Pour eux, cette espèce a proliféré depuis sa protection.</item>
+        <item>Domination physique, psychologique, tactique.</item>
+        <item>Mais France TV va peser de tout son poids pour ce quart royal.</item>
+        <item>La Caserne inaugure un nouveau format evenementiel "Aqueducs".</item>
+        <item>Composant 52 % de la production mondiale de fibre.</item>
+        <item>La France maintient sa 6e place des pays les plus attractifs en 2022.</item>
+        <item>Veut diversifier ses activités en mettant l’éditeur de logiciel.</item>
+    </string-array>
+
+
+</resources>
